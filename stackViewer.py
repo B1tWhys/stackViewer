@@ -5,6 +5,7 @@ import curses
 from enum import Enum
 from string import Formatter
 from math import *
+from random import *
 
 # classes
 class StkOrder(Enum):
